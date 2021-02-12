@@ -10,6 +10,9 @@
    - [Change log](#change-log)
        
 # Frends.Community.PgpEncryptFile
+
+This Task is deprecated. Use [Frends.Community.Pgp](https://github.com/CommunityHiQ/Frends.Community.Pgp) Tasks insted.
+
 This repository contais FRENDS4 Community Task to encrypt files with PGP
 
 ## Documentation
